@@ -11,7 +11,11 @@ The list will being in "Beijing", you must begin your route there.
 An example input file:
 
 Beijing    39.93    116.40
+
 Vladivostok    43.8    131.54
+
 Dakar    14.40    -17.28
+
 Singapore    1.14    103.55
+
 (...)
